@@ -1,5 +1,5 @@
 # Demoblaze 自動化測試專案
-這是一個使用 [Playwright] 針對 [Demoblaze](https://www.demoblaze.com/) 網站開發的自動化測試專案。
+這是一個使用 Playwright 針對 [Demoblaze](https://www.demoblaze.com/) 網站開發的自動化測試專案。
 
 
 ## 專案功能
@@ -54,3 +54,4 @@ npx playwright test --headed
 ## 專案結構
 - `pages/`: Page Object Model (POM) 頁面物件
 - `tests/`: 測試腳本 (.spec.js)
+
